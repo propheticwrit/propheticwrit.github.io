@@ -6,7 +6,7 @@ started: "2026-05-31"
 finished: null
 source: slack-#reading
 agent: bookworm
-updated: "2026-05-31T16:29:40-04:00"
+updated: "2026-05-31T16:31:12-04:00"
 tags:
   - book
 ---
@@ -19,3 +19,6 @@ tags:
 
 ## 2026-05-31 16:29
 Starting tonight. The setup of three brothers as moral archetypes — Dmitri the sensualist, Ivan the intellectual, Alyosha the spiritual — already feels schematic, but Dostoevsky earns it.
+
+## 2026-05-31 16:31
+> All things are lawful, that's what he taught, and there's no more to be said.
