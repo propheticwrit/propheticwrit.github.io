@@ -1,0 +1,15 @@
+# Quartz build artifacts
+quartz/node_modules/
+quartz/public/
+quartz/.quartz/plugins/
+
+# OS
+.DS_Store
+
+# Editor
+.vscode/
+.idea/
+
+# Obsidian (if used)
+.obsidian/workspace*
+.obsidian/cache
