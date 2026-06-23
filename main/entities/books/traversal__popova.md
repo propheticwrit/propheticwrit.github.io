@@ -6,7 +6,7 @@ started: "2026-06-01"
 finished: null
 source: slack-#reading
 agent: bookworm
-updated: "2026-06-22T23:18:50-04:00"
+updated: "2026-06-23T10:48:54-04:00"
 tags:
   - book
 ---
@@ -25,3 +25,6 @@ tags:
 
 ## 2026-06-22 23:18
 > Like every infatuated human being, time-warped into an adolescent state, imagination rejuvenated, the whole world encountered as if for the first time.
+
+## 2026-06-23 10:48
+We make our own destinies in the act of living, in the act of masking our choices as functions of chance and circumstance, those narratives of personhood by which we rescue ourselves from the responsibility of being a person.
