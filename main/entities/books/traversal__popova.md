@@ -6,7 +6,7 @@ started: "2026-06-01"
 finished: null
 source: slack-#reading
 agent: bookworm
-updated: "2026-06-23T10:48:54-04:00"
+updated: "2026-06-23T11:12:25-04:00"
 tags:
   - book
 ---
@@ -28,3 +28,6 @@ tags:
 
 ## 2026-06-23 10:48
 We make our own destinies in the act of living, in the act of masking our choices as functions of chance and circumstance, those narratives of personhood by which we rescue ourselves from the responsibility of being a person.
+
+## 2026-06-23 11:12
+We build the sandcastles of our loves and fancy them fortresses of granite. Then, watch bellwildered as the waves of our inconstancy lap them away along with the footprints of the builder, each love. We love and unlove alters the way we walk through life. Alters, the trajectory of our traversal, along the shoreline of the self, the only constant is that we go on walking that we remain pilgrims of possibility. We would not walk if we had already arrived. We would not write if we had already arrived out of our incompleteness and our disorientation, out of our longing and our wanderlust rises, the motive of force of every love, and every revolution of our science and our art of our creation and of our self creation every creative act is an act of traversal.
