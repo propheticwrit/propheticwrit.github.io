@@ -6,7 +6,7 @@ started: "2026-06-01"
 finished: null
 source: slack-#reading
 agent: bookworm
-updated: "2026-06-29T08:45:32-04:00"
+updated: "2026-06-29T08:55:16-04:00"
 tags:
   - book
 ---
@@ -40,3 +40,6 @@ The paradox of letters is that they exist only because the correspondants are ap
 
 ## 2026-06-29 08:45
 Blinded by hope and despair, we fail to see that the way people treat anyone is the way they treat everyone, including, one day, us.
+
+## 2026-06-29 08:55
+Every relationship, even the closest, is a set of adjacent realities along a fault line that might give way at any moment.
