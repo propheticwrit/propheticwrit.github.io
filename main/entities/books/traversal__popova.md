@@ -6,7 +6,7 @@ started: "2026-06-01"
 finished: null
 source: slack-#reading
 agent: bookworm
-updated: "2026-06-23T11:42:02-04:00"
+updated: "2026-06-29T08:41:51-04:00"
 tags:
   - book
 ---
@@ -34,3 +34,6 @@ We build the sandcastles of our loves and fancy them fortresses of granite. Then
 
 ## 2026-06-23 11:42
 We have a curious way of reading others through the lens of our own beliefs, selecting only those of their ideas that affirm our own washing them of contradictory subtleties and freezing them in time, even as their thinkers mature into greater nuance. And evolve away from the neat binaries, we wish to hold true.
+
+## 2026-06-29 08:41
+The paradox of letters is that they exist only because the correspondants are apart, yet are often the only direct record by which bygone lives are reconstructed. To try deducing the living nature of the intimate bond from the intervals of absense is to try deducing the warmth of sunshine from the umbrellas left at home. The fundamentals of the relationship were forged not in pen and paper but in the living hours they stole together.
