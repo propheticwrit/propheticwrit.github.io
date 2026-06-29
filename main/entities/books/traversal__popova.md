@@ -6,7 +6,7 @@ started: "2026-06-01"
 finished: null
 source: slack-#reading
 agent: bookworm
-updated: "2026-06-29T08:55:16-04:00"
+updated: "2026-06-29T09:07:07-04:00"
 tags:
   - book
 ---
@@ -43,3 +43,6 @@ Blinded by hope and despair, we fail to see that the way people treat anyone is 
 
 ## 2026-06-29 08:55
 Every relationship, even the closest, is a set of adjacent realities along a fault line that might give way at any moment.
+
+## 2026-06-29 09:07
+They called themselves atheists and believed themselves the archangels of reason, but they put their faith in chance and treated it as God, expecting the impartial hand of the universe to intercede on their behalf.
