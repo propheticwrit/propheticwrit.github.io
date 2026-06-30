@@ -6,7 +6,7 @@ started: "2026-06-01"
 finished: null
 source: slack-#reading
 agent: bookworm
-updated: "2026-06-29T09:07:07-04:00"
+updated: "2026-06-30T08:58:16-04:00"
 tags:
   - book
 ---
@@ -46,3 +46,6 @@ Every relationship, even the closest, is a set of adjacent realities along a fau
 
 ## 2026-06-29 09:07
 They called themselves atheists and believed themselves the archangels of reason, but they put their faith in chance and treated it as God, expecting the impartial hand of the universe to intercede on their behalf.
+
+## 2026-06-30 08:58
+The capacity for beauty and the capacity for brutality, forever tessellating the yet unsolved pattern that marks our species across cultures and civilizations. The impulse to create and the impulse to destroy, too tightly grouted to take one tile and leave the other out.
