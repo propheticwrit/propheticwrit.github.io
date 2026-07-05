@@ -103,4 +103,4 @@ _source: voice_ · _slack_ts: `1781814003.952919`_ · _tags: #introspection, #co
 
 Oh, the ease at which I can sit hours on end engaged in thoughtless activities. Mental and physical laxity are one and the same. Feelings of pleasure in the moment overwhelmed by an eternity of weakness and pain.
 
-_source: voice_ · _slack_ts: `1782740836.442899`_
+_source: voice_ · _slack_ts: `1782740836.442899`_ · _tags: #self-discipline, #introspection_ · _notes: Ease of slipping into thoughtless activities; pleasure in the moment vs. long-term weakness_
