@@ -1,6 +1,6 @@
 ---
 created: 2026-06-11T13:56:00-04:00
-updated: 2026-06-29T10:45:24-04:00
+updated: 2026-07-13T15:10:16-04:00
 source: slack-thoughts
 sender: Job (U03FS8NVDH9)
 tags:
@@ -104,3 +104,12 @@ _source: voice_ · _slack_ts: `1781814003.952919`_ · _tags: #introspection, #co
 Oh, the ease at which I can sit hours on end engaged in thoughtless activities. Mental and physical laxity are one and the same. Feelings of pleasure in the moment overwhelmed by an eternity of weakness and pain.
 
 _source: voice_ · _slack_ts: `1782740836.442899`_ · _tags: #self-discipline, #introspection_
+
+## 2026-07-13 15:10 EDT — I feel at times as if i'm hiding. Hiding away in this little corner of the world…
+
+I feel at times as if i'm hiding. Hiding away in this little corner of the world, where there is nobody to impose upon me, request of me anything demanding, require me to utilize any of these skills that I have inherited.
+
+When I come out to the west coast, I am made aware of the vibrancy, of growth and the incredible newness of it all. I am surrounded by creation, whereas where I reside is a place that stagnates. If I stay here am I destined to be enveloped in ease and comfort?
+
+_source: voice_ · _slack_ts: `1783969805.263509`_
+
