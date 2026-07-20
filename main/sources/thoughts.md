@@ -1,6 +1,6 @@
 ---
 created: 2026-06-11T13:56:00-04:00
-updated: 2026-07-19T09:00:00-04:00
+updated: 2026-07-20T17:37:38-04:00
 source: slack-thoughts
 sender: Job (U03FS8NVDH9)
 tags:
@@ -121,4 +121,11 @@ I feel at times as if i'm hiding. Hiding away in this little corner of the world
 When I come out to the west coast, I am made aware of the vibrancy, of growth and the incredible newness of it all. I am surrounded by creation, whereas where I reside is a place that stagnates. If I stay here am I destined to be enveloped in ease and comfort?
 
 _source: voice_ · _slack_ts: `1784148975.896679`_ · _tags: #introspection, #contentment_ 
+
+
+## 2026-07-20 17:37 EDT — Pain is an emotion
+
+Pain is an emotion
+
+_source: voice_ · _slack_ts: `1784583452.988109`_
 
