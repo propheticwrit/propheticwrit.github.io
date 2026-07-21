@@ -1,6 +1,6 @@
 ---
 created: 2026-06-11T13:56:00-04:00
-updated: 2026-07-20T17:37:38-04:00
+updated: 2026-07-21T08:25:09-04:00
 source: slack-thoughts
 sender: Job (U03FS8NVDH9)
 tags:
@@ -128,4 +128,11 @@ _source: voice_ · _slack_ts: `1784148975.896679`_ · _tags: #introspection, #co
 Pain is an emotion
 
 _source: voice_ · _slack_ts: `1784583452.988109`_
+
+
+## 2026-07-21 08:25 EDT — It is fascinated to me that the way we construct our response, or our definition…
+
+It is fascinated to me that the way we construct our response, or our definition of pain is the same way we construct an emotion. How we respond to pain is conditioned by our environment, our upbringing, our perception.
+
+_source: voice_ · _slack_ts: `1784636701.486339`_
 
