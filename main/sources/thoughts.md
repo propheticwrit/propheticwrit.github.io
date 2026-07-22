@@ -1,6 +1,6 @@
 ---
 created: 2026-06-11T13:56:00-04:00
-updated: 2026-07-22T14:44:06-04:00
+updated: 2026-07-22T14:45:15-04:00
 source: slack-thoughts
 sender: Job (U03FS8NVDH9)
 tags:
@@ -152,4 +152,11 @@ _source: voice_ · _slack_ts: `1784744875.666079`_
 The conceit of wealth is that it gives us this belief that we can affect change as an individual
 
 _source: voice_ · _slack_ts: `1784745839.431549`_
+
+
+## 2026-07-22 14:45 EDT — When there is a lack of purpose, life is opened up to all manner of anxieties an…
+
+When there is a lack of purpose, life is opened up to all manner of anxieties and doubts
+
+_source: voice_ · _slack_ts: `1784745909.755919`_
 
