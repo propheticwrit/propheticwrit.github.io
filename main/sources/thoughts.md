@@ -1,6 +1,6 @@
 ---
 created: 2026-06-11T13:56:00-04:00
-updated: 2026-07-21T08:25:09-04:00
+updated: 2026-07-22T14:28:02-04:00
 source: slack-thoughts
 sender: Job (U03FS8NVDH9)
 tags:
@@ -135,4 +135,14 @@ _source: voice_ · _slack_ts: `1784583452.988109`_
 It is fascinated to me that the way we construct our response, or our definition of pain is the same way we construct an emotion. How we respond to pain is conditioned by our environment, our upbringing, our perception.
 
 _source: voice_ · _slack_ts: `1784636701.486339`_
+
+
+## 2026-07-22 14:28 EDT — When reason failed, when abstract thought into darkness led, god answered
+
+When reason failed, when abstract thought into darkness led, god answered.
+When thought rose, illuminating the mysteries, we cast him aside.
+The answers now were clear to all. Look within, they cried, and find the truth.
+We looked, searched in vain. Why is it that every mystery solved begets another?
+
+_source: voice_ · _slack_ts: `1784744875.666079`_
 
