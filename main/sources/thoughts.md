@@ -1,6 +1,6 @@
 ---
 created: 2026-06-11T13:56:00-04:00
-updated: 2026-07-22T14:28:02-04:00
+updated: 2026-07-22T14:44:06-04:00
 source: slack-thoughts
 sender: Job (U03FS8NVDH9)
 tags:
@@ -145,4 +145,11 @@ The answers now were clear to all. Look within, they cried, and find the truth.
 We looked, searched in vain. Why is it that every mystery solved begets another?
 
 _source: voice_ · _slack_ts: `1784744875.666079`_
+
+
+## 2026-07-22 14:44 EDT — The conceit of wealth is that it gives us this belief that we can affect change…
+
+The conceit of wealth is that it gives us this belief that we can affect change as an individual
+
+_source: voice_ · _slack_ts: `1784745839.431549`_
 
