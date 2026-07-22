@@ -1,6 +1,6 @@
 ---
 created: 2026-06-11T13:56:00-04:00
-updated: 2026-07-22T14:45:15-04:00
+updated: 2026-07-22T15:48:57-04:00
 source: slack-thoughts
 sender: Job (U03FS8NVDH9)
 tags:
@@ -159,4 +159,11 @@ _source: voice_ · _slack_ts: `1784745839.431549`_
 When there is a lack of purpose, life is opened up to all manner of anxieties and doubts
 
 _source: voice_ · _slack_ts: `1784745909.755919`_
+
+
+## 2026-07-22 15:48 EDT — There's this compulsion in me that if directed toward other things could easily…
+
+There's this compulsion in me that if directed toward other things could easily be considered maladaptive. But society seems to occasionally reward the way my vice manifests.
+
+_source: voice_ · _slack_ts: `1784749730.959769`_
 
