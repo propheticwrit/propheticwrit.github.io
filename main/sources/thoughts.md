@@ -127,14 +127,14 @@ _source: voice_ · _slack_ts: `1784148975.896679`_ · _tags: #introspection, #co
 
 Pain is an emotion
 
-_source: voice_ · _slack_ts: `1784583452.988109`_
+_source: voice_ · _slack_ts: `1784583452.988109`_ · _tags: 
 
 
 ## 2026-07-21 08:25 EDT — It is fascinated to me that the way we construct our response, or our definition…
 
 It is fascinated to me that the way we construct our response, or our definition of pain is the same way we construct an emotion. How we respond to pain is conditioned by our environment, our upbringing, our perception.
 
-_source: voice_ · _slack_ts: `1784636701.486339`_
+_source: voice_ · _slack_ts: `1784636701.486339`_ · _tags: 
 
 
 ## 2026-07-22 14:28 EDT — When reason failed, when abstract thought into darkness led, god answered
@@ -144,14 +144,14 @@ When thought rose, illuminating the mysteries, we cast him aside.
 The answers now were clear to all. Look within, they cried, and find the truth.
 We looked, searched in vain. Why is it that every mystery solved begets another?
 
-_source: voice_ · _slack_ts: `1784744875.666079`_
+_source: voice_ · _slack_ts: `1784744875.666079`_ · _tags: 
 
 
 ## 2026-07-22 14:44 EDT — The conceit of wealth is that it gives us this belief that we can affect change…
 
 The conceit of wealth is that it gives us this belief that we can affect change as an individual
 
-_source: voice_ · _slack_ts: `1784745839.431549`_
+_source: voice_ · _slack_ts: `1784745839.431549`_ · _tags: 
 
 
 ## 2026-07-22 14:45 EDT — When there is a lack of purpose, life is opened up to all manner of anxieties an…
@@ -165,12 +165,12 @@ _source: voice_ · _slack_ts: `1784745909.755919`_
 
 There's this compulsion in me that if directed toward other things could easily be considered maladaptive. But society seems to occasionally reward the way my vice manifests.
 
-_source: voice_ · _slack_ts: `1784749730.959769`_
+_source: voice_ · _slack_ts: `1784749730.959769`_ · _tags: 
 
 
 ## 2026-07-22 15:51 EDT — When you change the means of transit from vehicle to foot you are made so acutel…
 
 When you change the means of transit from vehicle to foot you are made so acutely aware of the change in distance and time. The sign says 21 miles to camp. How our time reference changes from minutes to hours to days.
 
-_source: voice_ · _slack_ts: `1784749900.987389`_
+_source: voice_ · _slack_ts: `1784749900.987389`_ · _tags: 
 
