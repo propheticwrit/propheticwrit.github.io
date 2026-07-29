@@ -6,7 +6,7 @@ started: "2026-07-22"
 finished: null
 source: slack-#reading
 agent: bookworm
-updated: "2026-07-29T09:02:09-04:00"
+updated: "2026-07-29T18:04:21-04:00"
 tags:
   - book
 ---
