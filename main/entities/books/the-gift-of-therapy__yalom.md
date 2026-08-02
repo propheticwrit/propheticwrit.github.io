@@ -6,7 +6,7 @@ started: "2026-07-31"
 finished: null
 source: slack-#reading
 agent: bookworm
-updated: "2026-08-02T08:09:14-04:00"
+updated: "2026-08-02T08:15:24-04:00"
 tags:
   - book
 ---
@@ -25,3 +25,6 @@ Started reading
 
 ## 2026-08-02 08:09
 > At its very core, the flow of therapy should be spontaneous, forever following unanticipated river beds. It is grotesquely distorted by being packaged into a formula that enables inexperienced inadequately trained therapists to deliver a uniform course of therapy.
+
+## 2026-08-02 08:15
+> When a supervisor points out a flaw in our technique we are prone to seek to apply this immediately in our next session or our next conversation. This often fails, as it becomes an artificial insertion rather than a spontaneous reaction to the flow of the conversation.
