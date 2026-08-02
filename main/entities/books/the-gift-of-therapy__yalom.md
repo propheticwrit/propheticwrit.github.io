@@ -6,7 +6,7 @@ started: "2026-07-31"
 finished: null
 source: slack-#reading
 agent: bookworm
-updated: "2026-08-02T08:15:24-04:00"
+updated: "2026-08-02T08:44:07-04:00"
 tags:
   - book
 ---
@@ -28,3 +28,6 @@ Started reading
 
 ## 2026-08-02 08:15
 > When a supervisor points out a flaw in our technique we are prone to seek to apply this immediately in our next session or our next conversation. This often fails, as it becomes an artificial insertion rather than a spontaneous reaction to the flow of the conversation.
+
+## 2026-08-02 08:43
+> It can be helpful to explore the here and now, rather than the long term issues. This can be done by trying to seek out some interaction between you and the client that is analogous to the challenges they're facing in the world outside your session. In this exercise you can try to imagine how the aggrieved party feels and express this to the client
