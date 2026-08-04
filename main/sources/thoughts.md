@@ -158,7 +158,7 @@ _source: voice_ · _slack_ts: `1784745839.431549`_ · _tags:
 
 When there is a lack of purpose, life is opened up to all manner of anxieties and doubts
 
-_source: voice_ · _slack_ts: `1784745909.755919`_
+_source: voice_ · _slack_ts: `1784745909.755919`_ · _tags: 
 
 
 ## 2026-07-22 15:48 EDT — There's this compulsion in me that if directed toward other things could easily…
