@@ -6,7 +6,7 @@ started: "2026-07-31"
 finished: null
 source: slack-#reading
 agent: bookworm
-updated: "2026-08-04T16:42:15-04:00"
+updated: "2026-08-05T07:59:10-04:00"
 tags:
   - book
 ---
@@ -34,3 +34,8 @@ Started reading
 
 ## 2026-08-04 16:42
 To engage in a genuine relationship with one's patient is essential to disclose your feelings toward the patient in the immediate present.
+
+## 2026-08-05 07:59
+Using parts is a useful concept to undermine denial and resistance in many phase of therapy and is often a gentle way to explore ambivalence.
+
+A 'part' of you behaves in a certain way. Can we further explore this part?
