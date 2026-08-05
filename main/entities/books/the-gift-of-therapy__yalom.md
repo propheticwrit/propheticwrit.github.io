@@ -6,7 +6,7 @@ started: "2026-07-31"
 finished: null
 source: slack-#reading
 agent: bookworm
-updated: "2026-08-05T07:59:10-04:00"
+updated: "2026-08-05T08:08:59-04:00"
 tags:
   - book
 ---
@@ -39,3 +39,8 @@ To engage in a genuine relationship with one's patient is essential to disclose 
 Using parts is a useful concept to undermine denial and resistance in many phase of therapy and is often a gentle way to explore ambivalence.
 
 A 'part' of you behaves in a certain way. Can we further explore this part?
+
+## 2026-08-05 08:08
+There are two modes of existence, the everyday mode and the ontological mode. In the everyday mode we are consumed with and distracted by material surroundings. We are filled with wonderment about how things are in the world. In the ontological mode we are focused on being. We are filled with wonderment that things are. It is the realm beyond everyday concerns, and we are in a state of readiness for personal change.
+
+The clearest path to this place is a confrontation with one's death, the awareness and acceptance of ones mortality.
