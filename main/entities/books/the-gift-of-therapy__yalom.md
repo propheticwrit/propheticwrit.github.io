@@ -6,7 +6,7 @@ started: "2026-07-31"
 finished: null
 source: slack-#reading
 agent: bookworm
-updated: "2026-08-05T08:08:59-04:00"
+updated: "2026-08-05T08:25:02-04:00"
 tags:
   - book
 ---
@@ -44,3 +44,8 @@ A 'part' of you behaves in a certain way. Can we further explore this part?
 There are two modes of existence, the everyday mode and the ontological mode. In the everyday mode we are consumed with and distracted by material surroundings. We are filled with wonderment about how things are in the world. In the ontological mode we are focused on being. We are filled with wonderment that things are. It is the realm beyond everyday concerns, and we are in a state of readiness for personal change.
 
 The clearest path to this place is a confrontation with one's death, the awareness and acceptance of ones mortality.
+
+## 2026-08-05 08:25
+life swings like a pendulum to and fro between pain and boredom, which are in fact its ultimate constituents. Pain is desire, ambition, boredom is contentment. We must always be in one state or the other, unless we are able to renounce the worldly desires.
+
+How can we accept boredom as a state of being, free ourselves from this wheel of life?
