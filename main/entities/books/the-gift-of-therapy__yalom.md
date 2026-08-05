@@ -6,7 +6,7 @@ started: "2026-07-31"
 finished: null
 source: slack-#reading
 agent: bookworm
-updated: "2026-08-05T08:25:02-04:00"
+updated: "2026-08-05T08:30:25-04:00"
 tags:
   - book
 ---
@@ -49,3 +49,6 @@ The clearest path to this place is a confrontation with one's death, the awarene
 life swings like a pendulum to and fro between pain and boredom, which are in fact its ultimate constituents. Pain is desire, ambition, boredom is contentment. We must always be in one state or the other, unless we are able to renounce the worldly desires.
 
 How can we accept boredom as a state of being, free ourselves from this wheel of life?
+
+## 2026-08-05 08:30
+How do you turn the focus from the external to the internal? That which is your responsibility? Even if all these events were someone elses fault I want to look at your role in them, because that is where I can help affect change. We have no control on all of those external forces, only how we react to them.
