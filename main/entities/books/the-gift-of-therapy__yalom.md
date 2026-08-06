@@ -6,7 +6,7 @@ started: "2026-07-31"
 finished: null
 source: slack-#reading
 agent: bookworm
-updated: "2026-08-06T12:15:56-04:00"
+updated: "2026-08-06T12:18:07-04:00"
 tags:
   - book
 ---
@@ -69,3 +69,6 @@ We crave the comfort of absolute truth because we cannot bear the desolation of 
 
 ## 2026-08-06 12:15
 The who am I exercise. Each person is given 8 slips of paper and must write an answer to the question who am I. Then each person arranges the slips in order from most peripheral to most central to ones core.
+
+## 2026-08-06 12:18
+Then each person meditates on each slip for a minute and imagines what it would be like to let go that part of their identity. Then they are asked afer reflection to rearrange the slips. Or remove entirely.
