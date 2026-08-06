@@ -6,7 +6,7 @@ started: "2026-07-31"
 finished: null
 source: slack-#reading
 agent: bookworm
-updated: "2026-08-05T08:39:51-04:00"
+updated: "2026-08-06T09:03:11-04:00"
 tags:
   - book
 ---
@@ -57,3 +57,6 @@ How do you turn the focus from the external to the internal? That which is your 
 We are always subject to the clients biases when conversing with rhem alone. To the extent that we cant accept anything said as the truth without seeing the relationship dynamic with the offending party.
 
 The only truth in a session is the dynamic between client and therapist, how they project these feelings onto you. Or if we are able to observe the client interact, in couples therapy.
+
+## 2026-08-06 09:03
+Sometimes I have to remind patients that sooner or later, they will have to relinquish the goal of having a better past
