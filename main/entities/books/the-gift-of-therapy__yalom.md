@@ -6,7 +6,7 @@ started: "2026-07-31"
 finished: null
 source: slack-#reading
 agent: bookworm
-updated: "2026-08-06T09:03:11-04:00"
+updated: "2026-08-06T09:19:28-04:00"
 tags:
   - book
 ---
@@ -60,3 +60,6 @@ The only truth in a session is the dynamic between client and therapist, how the
 
 ## 2026-08-06 09:03
 Sometimes I have to remind patients that sooner or later, they will have to relinquish the goal of having a better past
+
+## 2026-08-06 09:19
+Therapist place a far higher value than patients on interpretation and insight. It is often the small personal acts that are valued and remembered
