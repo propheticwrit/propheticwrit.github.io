@@ -6,7 +6,7 @@ started: "2026-07-31"
 finished: null
 source: slack-#reading
 agent: bookworm
-updated: "2026-08-06T09:19:28-04:00"
+updated: "2026-08-06T09:21:47-04:00"
 tags:
   - book
 ---
@@ -63,3 +63,6 @@ Sometimes I have to remind patients that sooner or later, they will have to reli
 
 ## 2026-08-06 09:19
 Therapist place a far higher value than patients on interpretation and insight. It is often the small personal acts that are valued and remembered
+
+## 2026-08-06 09:21
+We crave the comfort of absolute truth because we cannot bear the desolation of a purely capricious existence. Truth is an illusion, albeit one that we are dependent on for continued survival.
