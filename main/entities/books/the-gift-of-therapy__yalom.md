@@ -6,7 +6,7 @@ started: "2026-07-31"
 finished: null
 source: slack-#reading
 agent: bookworm
-updated: "2026-08-06T09:21:47-04:00"
+updated: "2026-08-06T12:15:56-04:00"
 tags:
   - book
 ---
@@ -66,3 +66,6 @@ Therapist place a far higher value than patients on interpretation and insight. 
 
 ## 2026-08-06 09:21
 We crave the comfort of absolute truth because we cannot bear the desolation of a purely capricious existence. Truth is an illusion, albeit one that we are dependent on for continued survival.
+
+## 2026-08-06 12:15
+The who am I exercise. Each person is given 8 slips of paper and must write an answer to the question who am I. Then each person arranges the slips in order from most peripheral to most central to ones core.
