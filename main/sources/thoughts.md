@@ -1,6 +1,6 @@
 ---
 created: 2026-06-11T13:56:00-04:00
-updated: 2026-08-07T11:11:41-04:00
+updated: 2026-08-07T11:45:00-04:00
 source: slack-thoughts
 sender: Job (U03FS8NVDH9)
 tags:
@@ -201,4 +201,11 @@ _source: voice_ · _slack_ts: `1786115242.632679`_
 The best way to understand is to suspend belief. Your own preconceptions, your knowledge, perspective and opinions all prevent you from focusing soley on the other person.
 
 _source: voice_ · _slack_ts: `1786115497.360939`_
+
+
+## 2026-08-07 11:45 EDT — It seems part of the human condition that while we cannot predict future events…
+
+It seems part of the human condition that while we cannot predict future events, as soon as those events do happen we find it hard to see them as anything but inevitable. There's no way to know. So precisely where one wishes to set the dial between freedom and determinism is largely a matter of taste.
+
+_source: voice_ · _slack_ts: `1786117494.404069`_
 
