@@ -1,6 +1,6 @@
 ---
 created: 2026-06-11T13:56:00-04:00
-updated: 2026-08-07T07:30:48-04:00
+updated: 2026-08-07T11:07:28-04:00
 source: slack-thoughts
 sender: Job (U03FS8NVDH9)
 tags:
@@ -187,4 +187,11 @@ _source: voice_ · _slack_ts: `1786101706.031309`_
 Why is it that i'm so attracted to the narcissist when consuming their thoughts through the written word. Talib, Yalom, these men so confident in their beliefs that it reeks of arrogance. I am so aware of the perilous nature of the truth, and those who speak in the binary are all too often blinded by their ego. And yet, this confidence in conviction is an alluring quality when masked by intellect.
 
 _source: voice_ · _slack_ts: `1786102241.173929`_
+
+
+## 2026-08-07 11:07 EDT — Productive curiousity must be something new, that is complex, we are uncertain a…
+
+Productive curiousity must be something new, that is complex, we are uncertain about, and may conflict with our existing biases and preconceptions.
+
+_source: voice_ · _slack_ts: `1786115242.632679`_
 
