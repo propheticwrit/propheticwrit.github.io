@@ -1,6 +1,6 @@
 ---
 created: 2026-06-11T13:56:00-04:00
-updated: 2026-08-07T12:14:06-04:00
+updated: 2026-08-07T12:24:42-04:00
 source: slack-thoughts
 sender: Job (U03FS8NVDH9)
 tags:
@@ -215,4 +215,11 @@ _source: voice_ · _slack_ts: `1786117494.404069`_
 Creation of anything new is the creatoin of a new reality. It is much easier to accept the illusory certainties provided by society, or to reject all effort and seek refuge in a radical cynicism that denies the value of any effort at understanding. Although the reality we must seek will not contain the truth, it must have a truth contained in it. A creative product is never random or arbitrary; it must be true to something deeply sensed or felt inside the person, And in order to get to that kernel of inner certainty, one must learn to peel away the various veils and obstructions.
 
 _source: voice_ · _slack_ts: `1786119237.883329`_
+
+
+## 2026-08-07 12:24 EDT — Reading is my salvation. Just in the words that I find reason for being, the mea…
+
+Reading is my salvation. Just in the words that I find reason for being, the means to explore the inner most thoughts. The questions that torment.
+
+_source: voice_ · _slack_ts: `1786119877.059279`_
 
