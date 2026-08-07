@@ -1,6 +1,6 @@
 ---
 created: 2026-06-11T13:56:00-04:00
-updated: 2026-08-07T07:21:54-04:00
+updated: 2026-08-07T07:30:48-04:00
 source: slack-thoughts
 sender: Job (U03FS8NVDH9)
 tags:
@@ -180,4 +180,11 @@ _source: voice_ · _slack_ts: `1784749900.987389`_ · _tags:
 Alicias crazy is grounded by this desire, this need for the fulfillment that comes from helping others. In truth we all possess this wildness, although its means of manifestation differs. It is such an attractive quality to me, this fearlessness, willingness to defy convention
 
 _source: voice_ · _slack_ts: `1786101706.031309`_
+
+
+## 2026-08-07 07:30 EDT — Why is it that i'm so attracted to the narcissist when consuming their thoughts…
+
+Why is it that i'm so attracted to the narcissist when consuming their thoughts through the written word. Talib, Yalom, these men so confident in their beliefs that it reeks of arrogance. I am so aware of the perilous nature of the truth, and those who speak in the binary are all too often blinded by their ego. And yet, this confidence in conviction is an alluring quality when masked by intellect.
+
+_source: voice_ · _slack_ts: `1786102241.173929`_
 
