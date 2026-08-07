@@ -6,7 +6,7 @@ started: "2026-08-07"
 finished: null
 source: slack-#reading
 agent: bookworm
-updated: "2026-08-07T12:09:40-04:00"
+updated: "2026-08-07T12:09:55-04:00"
 tags:
   - book
 ---
@@ -25,3 +25,8 @@ We need ordered external input to keep the mind in order; this way we ensure som
 
 ## 2026-08-07 12:09
 Most people look at the illusory veils and are convinced they see the truth, but actually they are only only deluding themselves. Only by patiently lifting what the illusion do we get a closer glimpse of what life is really about.
+
+## 2026-08-07 12:09
+Reality is created as one tries to apprehend it.
+
+Whatever we call reality, it is revealed to us only through an active construction in which we participate.
