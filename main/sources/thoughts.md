@@ -1,6 +1,6 @@
 ---
 created: 2026-06-11T13:56:00-04:00
-updated: 2026-07-22T15:51:46-04:00
+updated: 2026-08-07T07:21:54-04:00
 source: slack-thoughts
 sender: Job (U03FS8NVDH9)
 tags:
@@ -173,4 +173,11 @@ _source: voice_ · _slack_ts: `1784749730.959769`_ · _tags:
 When you change the means of transit from vehicle to foot you are made so acutely aware of the change in distance and time. The sign says 21 miles to camp. How our time reference changes from minutes to hours to days.
 
 _source: voice_ · _slack_ts: `1784749900.987389`_ · _tags: 
+
+
+## 2026-08-07 07:21 EDT — Alicias crazy is grounded by this desire, this need for the fulfillment that com…
+
+Alicias crazy is grounded by this desire, this need for the fulfillment that comes from helping others. In truth we all possess this wildness, although its means of manifestation differs. It is such an attractive quality to me, this fearlessness, willingness to defy convention
+
+_source: voice_ · _slack_ts: `1786101706.031309`_
 
