@@ -6,7 +6,7 @@ started: "2026-08-07"
 finished: null
 source: slack-#reading
 agent: bookworm
-updated: "2026-08-07T12:10:53-04:00"
+updated: "2026-08-07T12:15:24-04:00"
 tags:
   - book
 ---
@@ -36,3 +36,6 @@ Shaping ones own reality, living in a world one has created, can be as enjoyable
 
 ## 2026-08-07 12:10
 But creating a new reality, a personally valid world, is not easy. It is much easier to accept the illusory certainties provided by the genes and by the culture, or to reject all effort and seek refuge in a radical cynicism that denies the value of any effort at understanding. Although the reality we must seek will not contain the truth, it must have a truth contained in it. A creative product is never random or arbitrary; it must be true to something deeply sensed or felt inside the person, And in order to get to that kernel of inner certainty, one must learn to peel away the various veils of Maya.
+
+## 2026-08-07 12:15
+The problem is that the more the ego becomes identified with the symbols outside the self the more vulnerable it becomes.
