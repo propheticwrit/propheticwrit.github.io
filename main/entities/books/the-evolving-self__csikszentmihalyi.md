@@ -6,7 +6,7 @@ started: "2026-08-07"
 finished: null
 source: slack-#reading
 agent: bookworm
-updated: "2026-08-07T12:09:22-04:00"
+updated: "2026-08-07T12:09:40-04:00"
 tags:
   - book
 ---
@@ -22,3 +22,6 @@ The self takes its form from a belief, the survival of that belief will mean mor
 
 ## 2026-08-07 12:09
 We need ordered external input to keep the mind in order; this way we ensure some congruence between objective and subjective reality.
+
+## 2026-08-07 12:09
+Most people look at the illusory veils and are convinced they see the truth, but actually they are only only deluding themselves. Only by patiently lifting what the illusion do we get a closer glimpse of what life is really about.
