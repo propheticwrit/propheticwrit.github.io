@@ -1,6 +1,6 @@
 ---
 created: 2026-06-11T13:56:00-04:00
-updated: 2026-08-07T11:07:28-04:00
+updated: 2026-08-07T11:11:41-04:00
 source: slack-thoughts
 sender: Job (U03FS8NVDH9)
 tags:
@@ -194,4 +194,11 @@ _source: voice_ · _slack_ts: `1786102241.173929`_
 Productive curiousity must be something new, that is complex, we are uncertain about, and may conflict with our existing biases and preconceptions.
 
 _source: voice_ · _slack_ts: `1786115242.632679`_
+
+
+## 2026-08-07 11:11 EDT — The best way to understand is to suspend belief. Your own preconceptions, your k…
+
+The best way to understand is to suspend belief. Your own preconceptions, your knowledge, perspective and opinions all prevent you from focusing soley on the other person.
+
+_source: voice_ · _slack_ts: `1786115497.360939`_
 
