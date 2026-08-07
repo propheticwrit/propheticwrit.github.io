@@ -6,7 +6,7 @@ started: "2026-08-07"
 finished: null
 source: slack-#reading
 agent: bookworm
-updated: "2026-08-07T12:09:55-04:00"
+updated: "2026-08-07T12:10:17-04:00"
 tags:
   - book
 ---
@@ -30,3 +30,6 @@ Most people look at the illusory veils and are convinced they see the truth, but
 Reality is created as one tries to apprehend it.
 
 Whatever we call reality, it is revealed to us only through an active construction in which we participate.
+
+## 2026-08-07 12:10
+Shaping ones own reality, living in a world one has created, can be as enjoyable as writing a symphony.
