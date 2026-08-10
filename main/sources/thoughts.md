@@ -1,6 +1,6 @@
 ---
 created: 2026-06-11T13:56:00-04:00
-updated: 2026-08-07T12:24:42-04:00
+updated: 2026-08-09T21:14:31-04:00
 source: slack-thoughts
 sender: Job (U03FS8NVDH9)
 tags:
@@ -179,14 +179,14 @@ _source: voice_ · _slack_ts: `1784749900.987389`_ · _tags:
 
 Alicias crazy is grounded by this desire, this need for the fulfillment that comes from helping others. In truth we all possess this wildness, although its means of manifestation differs. It is such an attractive quality to me, this fearlessness, willingness to defy convention
 
-_source: voice_ · _slack_ts: `1786101706.031309`_
+_source: voice_ · _slack_ts: `1786101706.031309`_ · _tags: 
 
 
 ## 2026-08-07 07:30 EDT — Why is it that i'm so attracted to the narcissist when consuming their thoughts…
 
 Why is it that i'm so attracted to the narcissist when consuming their thoughts through the written word. Talib, Yalom, these men so confident in their beliefs that it reeks of arrogance. I am so aware of the perilous nature of the truth, and those who speak in the binary are all too often blinded by their ego. And yet, this confidence in conviction is an alluring quality when masked by intellect.
 
-_source: voice_ · _slack_ts: `1786102241.173929`_
+_source: voice_ · _slack_ts: `1786102241.173929`_ · _tags: 
 
 
 ## 2026-08-07 11:07 EDT — Productive curiousity must be something new, that is complex, we are uncertain a…
@@ -200,26 +200,33 @@ _source: voice_ · _slack_ts: `1786115242.632679`_
 
 The best way to understand is to suspend belief. Your own preconceptions, your knowledge, perspective and opinions all prevent you from focusing soley on the other person.
 
-_source: voice_ · _slack_ts: `1786115497.360939`_
+_source: voice_ · _slack_ts: `1786115497.360939`_ · _tags: 
 
 
 ## 2026-08-07 11:45 EDT — It seems part of the human condition that while we cannot predict future events…
 
 It seems part of the human condition that while we cannot predict future events, as soon as those events do happen we find it hard to see them as anything but inevitable. There's no way to know. So precisely where one wishes to set the dial between freedom and determinism is largely a matter of taste.
 
-_source: voice_ · _slack_ts: `1786117494.404069`_
+_source: voice_ · _slack_ts: `1786117494.404069`_ · _tags: 
 
 
 ## 2026-08-07 12:14 EDT — Creation of anything new is the creatoin of a new reality. It is much easier to…
 
 Creation of anything new is the creatoin of a new reality. It is much easier to accept the illusory certainties provided by society, or to reject all effort and seek refuge in a radical cynicism that denies the value of any effort at understanding. Although the reality we must seek will not contain the truth, it must have a truth contained in it. A creative product is never random or arbitrary; it must be true to something deeply sensed or felt inside the person, And in order to get to that kernel of inner certainty, one must learn to peel away the various veils and obstructions.
 
-_source: voice_ · _slack_ts: `1786119237.883329`_
+_source: voice_ · _slack_ts: `1786119237.883329`_ · _tags: 
 
 
 ## 2026-08-07 12:24 EDT — Reading is my salvation. Just in the words that I find reason for being, the mea…
 
 Reading is my salvation. Just in the words that I find reason for being, the means to explore the inner most thoughts. The questions that torment.
 
-_source: voice_ · _slack_ts: `1786119877.059279`_
+_source: voice_ · _slack_ts: `1786119877.059279`_ · _tags: 
+
+
+## 2026-08-09 21:14 EDT — If I am to truly believe that perception is no longer an overarching concern, wh…
+
+If I am to truly believe that perception is no longer an overarching concern, why is it that I possess all of these things which I assign so little value to. Who is it that gains from me owning this home, this car, all these material possessions. For me, I feel all they provide is some small gains in my personal comfort and ease of existence. Is that worth the fortune that has been spent?
+
+_source: voice_ · _slack_ts: `1786324462.054559`_
 
