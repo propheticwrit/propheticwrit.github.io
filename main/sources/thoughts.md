@@ -1,6 +1,6 @@
 ---
 created: 2026-06-11T13:56:00-04:00
-updated: 2026-08-09T21:14:31-04:00
+updated: 2026-08-11T11:53:41-04:00
 source: slack-thoughts
 sender: Job (U03FS8NVDH9)
 tags:
@@ -229,4 +229,11 @@ _source: voice_ · _slack_ts: `1786119877.059279`_ · _tags:
 If I am to truly believe that perception is no longer an overarching concern, why is it that I possess all of these things which I assign so little value to. Who is it that gains from me owning this home, this car, all these material possessions. For me, I feel all they provide is some small gains in my personal comfort and ease of existence. Is that worth the fortune that has been spent?
 
 _source: voice_ · _slack_ts: `1786324462.054559`_
+
+
+## 2026-08-11 11:53 EDT — It is rather remarkable that these happenstance encounters between man and creat…
+
+It is rather remarkable that these happenstance encounters between man and creature between man and man completely alter the trajectory or our lives.
+
+_source: voice_ · _slack_ts: `1786463615.411169`_
 
