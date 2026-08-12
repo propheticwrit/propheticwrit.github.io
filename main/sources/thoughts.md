@@ -1,6 +1,6 @@
 ---
 created: 2026-06-11T13:56:00-04:00
-updated: 2026-08-11T11:53:41-04:00
+updated: 2026-08-12T18:54:29-04:00
 source: slack-thoughts
 sender: Job (U03FS8NVDH9)
 tags:
@@ -236,4 +236,11 @@ _source: voice_ · _slack_ts: `1786324462.054559`_
 It is rather remarkable that these happenstance encounters between man and creature between man and man completely alter the trajectory or our lives.
 
 _source: voice_ · _slack_ts: `1786463615.411169`_
+
+
+## 2026-08-12 18:54 EDT — Why is it that I vacillate between self acceptance and self loathing. Is the acc…
+
+Why is it that I vacillate between self acceptance and self loathing. Is the acceptance simply a resignation? Shopenhaeur said we exist in these two states, of pain and boredom. We spend a career, a lifetime seeking means to escape this pain. And once we've escaped its clutches, what is it that awaits us?
+
+_source: voice_ · _slack_ts: `1786575264.461479`_
 
