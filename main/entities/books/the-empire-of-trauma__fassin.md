@@ -6,7 +6,7 @@ started: "2026-08-09"
 finished: null
 source: slack-#reading
 agent: bookworm
-updated: "2026-08-09T08:35:25-04:00"
+updated: "2026-08-12T09:37:28-04:00"
 tags:
   - book
 ---
@@ -19,3 +19,12 @@ tags:
 
 ## 2026-08-09 08:35
 Trauma is both the product of an experience of inhumanity and the proof of the humanity of those who have endured it.
+
+## 2026-08-12 08:57
+The horrors of the holocaust allowed for the traumatic experience to be repositioned to become a testament to the unspeakable. Where it previously related to an individual and subjective experience, it was now allowed for the concept to be enlarged to represent universal human experience.
+
+## 2026-08-12 09:37
+The horrors of the holocaust allowed for the traumatic experience to be repositioned to become a testament to the unspeakable. Where it previously related to an individual and subjective experience, it was now allowed for the concept to be enlarged to represent universal human experience.
+
+## 2026-08-12 09:37
+The horrors of the holocaust allowed for the traumatic experience to be repositioned to become a testament to the unspeakable. Where it previously related to an individual and subjective experience, it was now allowed for the concept to be enlarged to represent universal human experience.
