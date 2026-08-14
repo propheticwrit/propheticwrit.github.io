@@ -6,7 +6,7 @@ started: "2026-08-09"
 finished: null
 source: slack-#reading
 agent: bookworm
-updated: "2026-08-14T11:39:54-04:00"
+updated: "2026-08-14T17:23:21-04:00"
 tags:
   - book
 ---
@@ -46,3 +46,6 @@ The fact that we have decided collectively to include all these different realit
 
 ## 2026-08-14 11:39
 Survivors of disasters, oppression and persecution adopt the only persona that allows them to be heard, that of the victim.
+
+## 2026-08-14 17:23
+Recognition of trauma is largely determined by the extent to which we are able to identify with the victims. Cultural, social and perhaps even ontological proximity matter, as does a priori valuation of the validity of the cause or suffering.
