@@ -6,7 +6,7 @@ started: "2026-08-09"
 finished: null
 source: slack-#reading
 agent: bookworm
-updated: "2026-08-14T11:16:03-04:00"
+updated: "2026-08-14T11:21:25-04:00"
 tags:
   - book
 ---
@@ -37,3 +37,6 @@ We live time differently, even if we have only rarely taken measure of it. Our r
 
 ## 2026-08-14 11:16
 In this context, where the way we think of our historical setting has fundamentally transformed, trauma has come to give a new meaning to our experience of time. It marks both the psychic and metaphorical trace of what has passed
+
+## 2026-08-14 11:21
+This is not a history of psychiatric knowledge but an anthropology of common sense.
