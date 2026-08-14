@@ -6,7 +6,7 @@ started: "2026-08-09"
 finished: null
 source: slack-#reading
 agent: bookworm
-updated: "2026-08-12T09:37:28-04:00"
+updated: "2026-08-14T11:13:29-04:00"
 tags:
   - book
 ---
@@ -28,3 +28,9 @@ The horrors of the holocaust allowed for the traumatic experience to be repositi
 
 ## 2026-08-12 09:37
 The horrors of the holocaust allowed for the traumatic experience to be repositioned to become a testament to the unspeakable. Where it previously related to an individual and subjective experience, it was now allowed for the concept to be enlarged to represent universal human experience.
+
+## 2026-08-12 09:37
+The horrors of the holocaust allowed for the traumatic experience to be repositioned to become a testament to the unspeakable. Where it previously related to an individual and subjective experience, it was now allowed for the concept to be enlarged to represent universal human experience.
+
+## 2026-08-14 11:13
+We live time differently, even if we have only rarely taken measure of it. Our relationship to history has turned tragic.
