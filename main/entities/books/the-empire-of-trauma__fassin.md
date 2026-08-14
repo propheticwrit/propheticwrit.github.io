@@ -6,7 +6,7 @@ started: "2026-08-09"
 finished: null
 source: slack-#reading
 agent: bookworm
-updated: "2026-08-14T11:26:39-04:00"
+updated: "2026-08-14T11:39:54-04:00"
 tags:
   - book
 ---
@@ -43,3 +43,6 @@ This is not a history of psychiatric knowledge but an anthropology of common sen
 
 ## 2026-08-14 11:26
 The fact that we have decided collectively to include all these different realities under the heading of trauma is an indicator of the way the tragic is understood in contemporary society. Both misfortune and violence are understood to be phenomena that leave traces of the past and present, and require treatment to ensure they do not burden the future.
+
+## 2026-08-14 11:39
+Survivors of disasters, oppression and persecution adopt the only persona that allows them to be heard, that of the victim.
