@@ -6,7 +6,7 @@ started: "2026-08-09"
 finished: null
 source: slack-#reading
 agent: bookworm
-updated: "2026-08-14T11:13:29-04:00"
+updated: "2026-08-14T11:16:03-04:00"
 tags:
   - book
 ---
@@ -34,3 +34,6 @@ The horrors of the holocaust allowed for the traumatic experience to be repositi
 
 ## 2026-08-14 11:13
 We live time differently, even if we have only rarely taken measure of it. Our relationship to history has turned tragic.
+
+## 2026-08-14 11:16
+In this context, where the way we think of our historical setting has fundamentally transformed, trauma has come to give a new meaning to our experience of time. It marks both the psychic and metaphorical trace of what has passed
