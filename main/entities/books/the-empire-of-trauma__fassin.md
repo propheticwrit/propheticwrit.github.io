@@ -6,7 +6,7 @@ started: "2026-08-09"
 finished: null
 source: slack-#reading
 agent: bookworm
-updated: "2026-08-14T17:23:21-04:00"
+updated: "2026-08-14T17:29:06-04:00"
 tags:
   - book
 ---
@@ -49,3 +49,6 @@ Survivors of disasters, oppression and persecution adopt the only persona that a
 
 ## 2026-08-14 17:23
 Recognition of trauma is largely determined by the extent to which we are able to identify with the victims. Cultural, social and perhaps even ontological proximity matter, as does a priori valuation of the validity of the cause or suffering.
+
+## 2026-08-14 17:29
+The tour may have been shut against moral judgment, but it found its way in through the window. Or rather, it never really left the scene at all. In fact, trauma enjoys its current status more as a moral than as a psychological category. Trauma is acknowledged, and it confers a form of social recognition before it is ever validated by any psychologist or psychiatrist.
