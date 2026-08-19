@@ -6,7 +6,7 @@ started: "2026-08-19"
 finished: null
 source: slack-#reading
 agent: bookworm
-updated: "2026-08-19T17:42:30-04:00"
+updated: "2026-08-19T17:55:14-04:00"
 tags:
   - book
 ---
@@ -25,3 +25,6 @@ Was not all suffering time, were not all forms of tormenting oneself and being a
 
 ## 2026-08-19 17:42
 When someone is searching the only thing in his eyes to see is that for which he searches, unable to find anything, let anything else in his mind, because he thinks of nothing other than his goal. But finding means being free, being open, having no goal.
+
+## 2026-08-19 17:55
+To understand the world, to explain it, to despise it, may be what great thinkers do. But I am only interested in being able to love the world.
