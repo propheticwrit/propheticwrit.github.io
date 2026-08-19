@@ -193,7 +193,7 @@ _source: voice_ · _slack_ts: `1786102241.173929`_ · _tags:
 
 Productive curiousity must be something new, that is complex, we are uncertain about, and may conflict with our existing biases and preconceptions.
 
-_source: voice_ · _slack_ts: `1786115242.632679`_
+_source: voice_ · _slack_ts: `1786115242.632679`_ · _tags: 
 
 
 ## 2026-08-07 11:11 EDT — The best way to understand is to suspend belief. Your own preconceptions, your k…
@@ -228,19 +228,19 @@ _source: voice_ · _slack_ts: `1786119877.059279`_ · _tags:
 
 If I am to truly believe that perception is no longer an overarching concern, why is it that I possess all of these things which I assign so little value to. Who is it that gains from me owning this home, this car, all these material possessions. For me, I feel all they provide is some small gains in my personal comfort and ease of existence. Is that worth the fortune that has been spent?
 
-_source: voice_ · _slack_ts: `1786324462.054559`_
+_source: voice_ · _slack_ts: `1786324462.054559`_ · _tags: 
 
 
 ## 2026-08-11 11:53 EDT — It is rather remarkable that these happenstance encounters between man and creat…
 
 It is rather remarkable that these happenstance encounters between man and creature between man and man completely alter the trajectory or our lives.
 
-_source: voice_ · _slack_ts: `1786463615.411169`_
+_source: voice_ · _slack_ts: `1786463615.411169`_ · _tags: 
 
 
 ## 2026-08-12 18:54 EDT — Why is it that I vacillate between self acceptance and self loathing. Is the acc…
 
 Why is it that I vacillate between self acceptance and self loathing. Is the acceptance simply a resignation? Shopenhaeur said we exist in these two states, of pain and boredom. We spend a career, a lifetime seeking means to escape this pain. And once we've escaped its clutches, what is it that awaits us?
 
-_source: voice_ · _slack_ts: `1786575264.461479`_
+_source: voice_ · _slack_ts: `1786575264.461479`_ · _tags: 
 
