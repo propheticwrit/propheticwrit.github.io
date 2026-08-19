@@ -6,7 +6,7 @@ started: "2026-08-19"
 finished: null
 source: slack-#reading
 agent: bookworm
-updated: "2026-08-19T17:55:14-04:00"
+updated: "2026-08-19T17:56:24-04:00"
 tags:
   - book
 ---
@@ -28,3 +28,6 @@ When someone is searching the only thing in his eyes to see is that for which he
 
 ## 2026-08-19 17:55
 To understand the world, to explain it, to despise it, may be what great thinkers do. But I am only interested in being able to love the world.
+
+## 2026-08-19 17:56
+Place more importance on acts of life than in speech, more on the gestures of hand than opinions. See greatness in ones actions.
