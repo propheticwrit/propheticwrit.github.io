@@ -6,7 +6,7 @@ started: "2026-08-19"
 finished: null
 source: slack-#reading
 agent: bookworm
-updated: "2026-08-19T17:10:28-04:00"
+updated: "2026-08-19T17:42:30-04:00"
 tags:
   - book
 ---
@@ -22,3 +22,6 @@ The teachings are not to explain the world to those who seek knowledge. Their go
 
 ## 2026-08-19 17:10
 Was not all suffering time, were not all forms of tormenting oneself and being afraid time, was not everything overcome soon as one had overcome time, as soon as time would have been put out of existence by ones thoughts?
+
+## 2026-08-19 17:42
+When someone is searching the only thing in his eyes to see is that for which he searches, unable to find anything, let anything else in his mind, because he thinks of nothing other than his goal. But finding means being free, being open, having no goal.
