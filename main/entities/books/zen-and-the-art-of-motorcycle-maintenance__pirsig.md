@@ -6,7 +6,7 @@ started: "2026-08-19"
 finished: null
 source: slack-#reading
 agent: bookworm
-updated: "2026-08-26T21:40:43-04:00"
+updated: "2026-08-26T21:41:45-04:00"
 tags:
   - book
 ---
@@ -22,3 +22,6 @@ We're in such a hurry. Most of the time, we never get much chance to talk. The r
 
 ## 2026-08-26 21:40
 At any moment. Is truth a function of time? #question
+
+## 2026-08-26 21:41
+Scientific truth is not dogma. Good for eternity, but a temporal quantitative entity that could be studied like anything else.
