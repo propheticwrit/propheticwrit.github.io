@@ -6,7 +6,7 @@ started: "2026-08-19"
 finished: null
 source: slack-#reading
 agent: bookworm
-updated: "2026-08-31T22:03:02-04:00"
+updated: "2026-08-31T22:05:58-04:00"
 tags:
   - book
 ---
@@ -28,3 +28,6 @@ Scientific truth is not dogma. Good for eternity, but a temporal quantitative en
 
 ## 2026-08-31 22:02
 Must we always suffer spiritually and aesthetically in order to satisfy material needs?
+
+## 2026-08-31 22:05
+> The Craftsman isn't ever following a single line of instruction. He's making decisions as he goes along. For that reason he'll be absorbed and attentive to what he's doing even though he doesn't deliberately contrive this. His motions and the machine are in a kind of harmony. He isn't following any set of written instructions because the nature of the material at hand determines his thoughts. And motions, which simultaneously change the nature of the material at hand.
