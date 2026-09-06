@@ -127,14 +127,14 @@ _source: voice_ · _slack_ts: `1784148975.896679`_ · _tags: #introspection, #co
 
 Pain is an emotion
 
-_source: voice_ · _slack_ts: `1784583452.988109`_ · _tags: 
+_source: voice_ · _slack_ts: `1784583452.988109`_ · _tags:  · _tags: 
 
 
 ## 2026-07-21 08:25 EDT — It is fascinated to me that the way we construct our response, or our definition…
 
 It is fascinated to me that the way we construct our response, or our definition of pain is the same way we construct an emotion. How we respond to pain is conditioned by our environment, our upbringing, our perception.
 
-_source: voice_ · _slack_ts: `1784636701.486339`_ · _tags: 
+_source: voice_ · _slack_ts: `1784636701.486339`_ · _tags:  · _tags: 
 
 
 ## 2026-07-22 14:28 EDT — When reason failed, when abstract thought into darkness led, god answered
@@ -144,103 +144,103 @@ When thought rose, illuminating the mysteries, we cast him aside.
 The answers now were clear to all. Look within, they cried, and find the truth.
 We looked, searched in vain. Why is it that every mystery solved begets another?
 
-_source: voice_ · _slack_ts: `1784744875.666079`_ · _tags: 
+_source: voice_ · _slack_ts: `1784744875.666079`_ · _tags:  · _tags: 
 
 
 ## 2026-07-22 14:44 EDT — The conceit of wealth is that it gives us this belief that we can affect change…
 
 The conceit of wealth is that it gives us this belief that we can affect change as an individual
 
-_source: voice_ · _slack_ts: `1784745839.431549`_ · _tags: 
+_source: voice_ · _slack_ts: `1784745839.431549`_ · _tags:  · _tags: 
 
 
 ## 2026-07-22 14:45 EDT — When there is a lack of purpose, life is opened up to all manner of anxieties an…
 
 When there is a lack of purpose, life is opened up to all manner of anxieties and doubts
 
-_source: voice_ · _slack_ts: `1784745909.755919`_ · _tags: 
+_source: voice_ · _slack_ts: `1784745909.755919`_ · _tags:  · _tags: 
 
 
 ## 2026-07-22 15:48 EDT — There's this compulsion in me that if directed toward other things could easily…
 
 There's this compulsion in me that if directed toward other things could easily be considered maladaptive. But society seems to occasionally reward the way my vice manifests.
 
-_source: voice_ · _slack_ts: `1784749730.959769`_
+_source: voice_ · _slack_ts: `1784749730.959769`_ · _tags: 
 
 
 ## 2026-07-22 15:51 EDT — When you change the means of transit from vehicle to foot you are made so acutel…
 
 When you change the means of transit from vehicle to foot you are made so acutely aware of the change in distance and time. The sign says 21 miles to camp. How our time reference changes from minutes to hours to days.
 
-_source: voice_ · _slack_ts: `1784749900.987389`_ · _tags: 
+_source: voice_ · _slack_ts: `1784749900.987389`_ · _tags:  · _tags: 
 
 
 ## 2026-08-07 07:21 EDT — Alicias crazy is grounded by this desire, this need for the fulfillment that com…
 
 Alicias crazy is grounded by this desire, this need for the fulfillment that comes from helping others. In truth we all possess this wildness, although its means of manifestation differs. It is such an attractive quality to me, this fearlessness, willingness to defy convention
 
-_source: voice_ · _slack_ts: `1786101706.031309`_ · _tags: 
+_source: voice_ · _slack_ts: `1786101706.031309`_ · _tags:  · _tags: 
 
 
 ## 2026-08-07 07:30 EDT — Why is it that i'm so attracted to the narcissist when consuming their thoughts…
 
 Why is it that i'm so attracted to the narcissist when consuming their thoughts through the written word. Talib, Yalom, these men so confident in their beliefs that it reeks of arrogance. I am so aware of the perilous nature of the truth, and those who speak in the binary are all too often blinded by their ego. And yet, this confidence in conviction is an alluring quality when masked by intellect.
 
-_source: voice_ · _slack_ts: `1786102241.173929`_ · _tags: 
+_source: voice_ · _slack_ts: `1786102241.173929`_ · _tags:  · _tags: 
 
 
 ## 2026-08-07 11:07 EDT — Productive curiousity must be something new, that is complex, we are uncertain a…
 
 Productive curiousity must be something new, that is complex, we are uncertain about, and may conflict with our existing biases and preconceptions.
 
-_source: voice_ · _slack_ts: `1786115242.632679`_ · _tags: 
+_source: voice_ · _slack_ts: `1786115242.632679`_ · _tags:  · _tags: 
 
 
 ## 2026-08-07 11:11 EDT — The best way to understand is to suspend belief. Your own preconceptions, your k…
 
 The best way to understand is to suspend belief. Your own preconceptions, your knowledge, perspective and opinions all prevent you from focusing soley on the other person.
 
-_source: voice_ · _slack_ts: `1786115497.360939`_ · _tags: 
+_source: voice_ · _slack_ts: `1786115497.360939`_ · _tags:  · _tags: 
 
 
 ## 2026-08-07 11:45 EDT — It seems part of the human condition that while we cannot predict future events…
 
 It seems part of the human condition that while we cannot predict future events, as soon as those events do happen we find it hard to see them as anything but inevitable. There's no way to know. So precisely where one wishes to set the dial between freedom and determinism is largely a matter of taste.
 
-_source: voice_ · _slack_ts: `1786117494.404069`_ · _tags: 
+_source: voice_ · _slack_ts: `1786117494.404069`_ · _tags:  · _tags: 
 
 
 ## 2026-08-07 12:14 EDT — Creation of anything new is the creatoin of a new reality. It is much easier to…
 
 Creation of anything new is the creatoin of a new reality. It is much easier to accept the illusory certainties provided by society, or to reject all effort and seek refuge in a radical cynicism that denies the value of any effort at understanding. Although the reality we must seek will not contain the truth, it must have a truth contained in it. A creative product is never random or arbitrary; it must be true to something deeply sensed or felt inside the person, And in order to get to that kernel of inner certainty, one must learn to peel away the various veils and obstructions.
 
-_source: voice_ · _slack_ts: `1786119237.883329`_
+_source: voice_ · _slack_ts: `1786119237.883329`_ · _tags: 
 
 
 ## 2026-08-07 12:24 EDT — Reading is my salvation. Just in the words that I find reason for being, the mea…
 
 Reading is my salvation. Just in the words that I find reason for being, the means to explore the inner most thoughts. The questions that torment.
 
-_source: voice_ · _slack_ts: `1786119877.059279`_ · _tags:  · _tags: 
+_source: voice_ · _slack_ts: `1786119877.059279`_ · _tags:  · _tags:  · _tags: 
 
 
 ## 2026-08-09 21:14 EDT — If I am to truly believe that perception is no longer an overarching concern, wh…
 
 If I am to truly believe that perception is no longer an overarching concern, why is it that I possess all of these things which I assign so little value to. Who is it that gains from me owning this home, this car, all these material possessions. For me, I feel all they provide is some small gains in my personal comfort and ease of existence. Is that worth the fortune that has been spent?
 
-_source: voice_ · _slack_ts: `1786324462.054559`_ · _tags: 
+_source: voice_ · _slack_ts: `1786324462.054559`_ · _tags:  · _tags: 
 
 
 ## 2026-08-11 11:53 EDT — It is rather remarkable that these happenstance encounters between man and creat…
 
 It is rather remarkable that these happenstance encounters between man and creature between man and man completely alter the trajectory or our lives.
 
-_source: voice_ · _slack_ts: `1786463615.411169`_ · _tags: 
+_source: voice_ · _slack_ts: `1786463615.411169`_ · _tags:  · _tags: 
 
 
 ## 2026-08-12 18:54 EDT — Why is it that I vacillate between self acceptance and self loathing. Is the acc…
 
 Why is it that I vacillate between self acceptance and self loathing. Is the acceptance simply a resignation? Shopenhaeur said we exist in these two states, of pain and boredom. We spend a career, a lifetime seeking means to escape this pain. And once we've escaped its clutches, what is it that awaits us?
 
-_source: voice_ · _slack_ts: `1786575264.461479`_ · _tags:  · _tags:  · _tags: 
+_source: voice_ · _slack_ts: `1786575264.461479`_ · _tags:  · _tags:  · _tags:  · _tags: 
 
